@@ -1,6 +1,7 @@
-node_modules/
-dist/
-.env
-.env.*
-*.log
-*.zip
+node_modules
+.next
+out
+.env*.local
+npm-debug.log*
+next-dev.log
+next-dev.err
